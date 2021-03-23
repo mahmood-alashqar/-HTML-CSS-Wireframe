@@ -1,0 +1,163 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+    background-color: aliceblue;
+
+}
+
+header 
+{
+    padding: 30px;
+    text-align: center;
+    /* background-color: wheat; */
+
+}
+h3 {
+    font-size: 30px;
+    font-weight: bold;
+    vertical-align: 100px;
+    margin-top: 100px;
+    margin-right: 10px;
+margin-left: 30px;
+}
+
+nav {
+    
+    display: inline-block;
+    background-color: #333;
+    /* margin-bottom: 20px;
+    list-style-type: none;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  list-style: kannada; */
+  /* width: 100%; */
+  /* overflow: hidden; */
+  /* height: 44px; */
+  
+  width: 110%;
+ 
+}
+
+nav ul li {
+    display: inline-block;
+    padding: 20px;
+    color:#999;
+    font-weight: bold;
+    margin: 20px;
+   
+    
+
+
+}
+
+.imgg
+{
+    
+    /* display:inline-block;
+    padding-left: 30px;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: 50px; */
+    /* background: white;
+   margin: auto;
+   margin-top: 200px;
+   margin-left: 10px;
+   padding: 10px;
+   width: 200px; */
+   /* clear: both;
+    width: 100%; margin-left: 30px;
+    padding: 30px;
+    margin-left: 50px; */
+margin-right: 10px;
+margin-left: 30px;
+vertical-align: 50px;
+
+}
+ img.left {float: left;
+    width: 50%;
+    vertical-align: 50px;}
+
+
+ #bigpic
+ {
+     
+     margin-top: 50px;
+     margin-bottom: 50px;
+     margin-right: 50px;
+margin-left: 50px;
+margin: 150px;
+ }
+ #empty
+ {
+    
+        margin-top: 190px;
+        /* width: 100%; */
+        height: 75px;
+          background:rgb(82, 78, 78);
+          position: relative;
+  bottom: -337px;
+  /* right: 50px; */
+  width: 930px;
+  border: 3px solid #afb3aa;
+      
+ }
+
+ .par
+ {
+    max-height: 104px;
+    overflow: scroll;
+    margin-top: 100px;
+    width: 300px;
+    /* margin-right: 1000px; */
+    position: absolute;
+    right: 27%;
+    bottom: -250%;
+ }
+
+ p :empty {
+    margin-top: 20px;
+    width: 100%;
+    height: 75px;
+      background:rgb(82, 78, 78);
+ }
+ #click {
+    margin-right: 10px;
+margin-left: 30px;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+ }
+ div 
+ {
+     bottom: -255%;
+
+     
+     margin-right: 10px;
+     margin-left: 30px;
+    
+    width: 300px;
+    /* margin-right: 1000px; */
+    position: absolute;
+    right: 27%;
+ }
+
+ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section
+ {
+
+    margin: 80px;
+ }
+
+
+
+
+
+
+
